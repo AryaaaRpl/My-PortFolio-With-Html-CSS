@@ -19,7 +19,7 @@ ScrollReveal({
   ScrollReveal().reveal('.section__text__p2 .experience .details-container', { origin: 'bottom' });
  
 const typed = new Typed('.myself', {
-  strings: ['Anak Agung Putu Arya Prana Jaya', 'Software Engineer', 'Networking Engineer',],
+  strings: ['Arya', 'Software Engineer', 'Networking Engineer',],
   typeSpeed: 100,
   backSpeed: 100,
   backDelay: 1000,
