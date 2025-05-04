@@ -43,12 +43,12 @@ nav,
 nav {
   justify-content: space-around;
   align-items: center;
-  height: 17vh;
-  box-shadow: 0 0 0.5rem black;
+  height: 10vh;
+  box-shadow: 2px 2px 2px black;
 }
 
 .nav-links {
-  gap: 2rem;
+  gap: 1.2rem;
   list-style: none;
   font-size: 1.5rem;
 }
@@ -324,6 +324,7 @@ section {
 }
 
 .section__pic-container img {
+  border-radius: 10%;
   animation: float 4s ease-in-out infinite;
 }
 
